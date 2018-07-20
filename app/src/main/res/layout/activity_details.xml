@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/scroll_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/relative_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp">
+
+        <ImageView
+            android:id="@+id/attraction_image"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/statueofliberty"/>
+
+        <TextView
+            android:id="@+id/desc_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/attraction_image"
+            android:layout_gravity="center"
+            android:layout_marginLeft="16dp"
+            android:layout_marginStart="16dp"
+            android:layout_toEndOf="@+id/map_icon"
+            android:layout_toRightOf="@+id/map_icon"
+            android:textColor="@android:color/black"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            tools:text="Statue of Liberty" />
+
+        <ImageView
+            android:id="@+id/phone_icon"
+            android:layout_width="26dp"
+            android:layout_height="26dp"
+            android:layout_alignLeft="@+id/map_icon"
+            android:layout_alignStart="@+id/map_icon"
+            android:layout_below="@+id/map_icon"
+            android:layout_marginTop="8dp"
+            android:src="@drawable/phone" />
+
+        <ImageView
+            android:id="@+id/map_icon"
+            android:layout_width="26dp"
+            android:layout_height="26dp"
+            android:layout_below="@+id/desc_name"
+            android:layout_marginTop="8dp"
+            android:src="@drawable/map" />
+
+        <TextView
+            android:id="@+id/des_address"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/desc_name"
+            android:layout_alignStart="@+id/desc_name"
+            android:layout_below="@+id/desc_name"
+            android:layout_marginTop="11dp"
+            android:textSize="16sp"
+            tools:text="Liberty Island, New York, NY 10004" />
+
+        <TextView
+            android:id="@+id/des_phone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/des_address"
+            android:layout_marginLeft="16dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="13dp"
+            android:layout_toEndOf="@+id/phone_icon"
+            android:layout_toRightOf="@+id/phone_icon"
+            android:textSize="16sp"
+            tools:text="+1 212-363-3200" />
+
+        <TextView
+            android:id="@+id/description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/des_phone"
+            android:layout_marginLeft="16dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="8dp"
+            android:layout_toEndOf="@+id/phone_icon"
+            android:layout_toRightOf="@+id/phone_icon"
+            android:textSize="16sp" />
+
+        <Button
+            android:id="@+id/map_direction"
+            android:layout_width="140dp"
+            android:layout_height="wrap_content"
+            android:text="Get Directions"
+            android:gravity="center"
+            android:layout_margin="16dp"
+            android:layout_below="@id/description"
+            android:layout_toRightOf="@id/phone_icon"
+            android:background="@color/colorPrimary"
+            android:textSize="16sp"
+            android:textColor="@android:color/white" />
+
+        <Button
+            android:id="@+id/call_phone"
+            android:layout_width="140dp"
+            android:layout_height="wrap_content"
+            android:text="Call"
+            android:layout_marginTop="16dp"
+            android:textSize="16sp"
+            android:layout_below="@id/description"
+            android:layout_toRightOf="@id/map_direction"
+            android:background="@color/colorPrimary"
+            android:textColor="@android:color/white"/>
+
+
+    </RelativeLayout>
+
+</ScrollView>

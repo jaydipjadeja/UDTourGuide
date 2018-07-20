@@ -1,0 +1,146 @@
+<resources>
+    <string name="app_name">UDTourGuide</string>
+
+    <!--Home Page-->
+    <string name="title_main">New York</string>
+    <string name="des_main">New York City comprises 5 boroughs sitting where the Hudson River meets the Atlantic Ocean. At its core is Manhattan, a densely populated borough that’s among the world’s major commercial, financial and cultural centers. Its iconic sites include skyscrapers such as the Empire State Building and sprawling Central Park. Broadway theater is staged in neon-lit Times Square.</string>
+
+    <!--Tab Name-->
+    <string name="attraction_tab">Attractions</string>
+    <string name="restaurant_tab">Restaurants</string>
+    <string name="adventure_tab">Adventures</string>
+    <string name="shopping_tab">Shopping</string>
+
+    <!--NY Attraction description-->
+    <string name="statue_desc">The Statue of Liberty is a figure of a robed woman representing Libertas, a Roman liberty goddess. She holds a torch above her head with her right hand, and in her left hand carries a tabula ansata inscribed in Roman numerals with "JULY IV MDCCLXXVI" (July 4, 1776), the date of the U.S. Declaration of Independence. A broken chain lies at her feet as she walks forward. The statue became an icon of freedom and of the United States, and was a welcoming sight to immigrants arriving from abroad.</string>
+    <string name="central_desc">Central Park is an urban park in Manhattan, New York City. It is located between the Upper West Side and Upper East Side, roughly bounded by Fifth Avenue on the east, Central Park West (Eighth Avenue) on the west, Central Park South (59th Street) on the south, and Central Park North (110th Street) on the north. Central Park is the most visited urban park in the United States, with 40 million visitors in 2013, and one of the most filmed locations in the world. In terms of area, Central Park is the fifth-largest park in New York City, covering 843 acres (341 ha).</string>
+    <string name="empire_desc">The Empire State Building is a 102-story Art Deco skyscraper in Midtown Manhattan, New York City. Designed by Shreve, Lamb and Harmon and completed in 1931, the building has a roof height of 1,250 feet (380 m) and stands a total of 1,454 feet (443.2 m) tall, including its antenna. Its name is derived from "Empire State", the nickname of New York. As of 2017 the building is the 5th-tallest completed skyscraper in the United States and the 28th-tallest in the world. It is also the 6th-tallest freestanding structure in the Americas.</string>
+    <string name="high_desc">The High Line is a 1.45-mile-long (2.33 km) elevated linear park, greenway and rail trail. It was created on a former New York Central Railroad spur on the west side of Manhattan in New York City. Led by the landscape architecture firm of James Corner Field Operations, the abandoned spur has been redesigned as a "living system" drawing from multiple disciplines which include landscape architecture, urban design, and ecology. Since opening in 2009, the High Line has become an icon of contemporary landscape architecture.</string>
+    <string name="metro_desc">The Metropolitan Museum of Art of New York, colloquially "the Met", is the largest art museum in the United States. With 7.06 million visitors in 2016, it was the third most visited art museum in the world, and the fifth most visited museum of any kind. Its permanent collection contains over two million works, divided among seventeen curatorial departments. The main building, on the eastern edge of Central Park along Manhattans Museum Mile, is by area one of the worlds largest art galleries. A much smaller second location, The Cloisters at Fort Tryon Park in Upper Manhattan, contains an extensive collection of art, architecture, and artifacts from Medieval Europe.</string>
+    <string name="grand_desc">Grand Central Terminal (GCT; also referred to as Grand Central Station or simply as Grand Central) is a commuter and intercity railroad terminal at 42nd Street and Park Avenue in Midtown Manhattan in New York City, United States. The terminal serves commuters traveling on the Metro-North Railroad to Westchester, Putnam, and Dutchess counties in New York, as well as to Fairfield and New Haven counties in Connecticut. Through recent Amtrak connections, Grand Central is served by the Adirondack, Empire Service, Ethan Allen Express, and Maple Leaf services. The terminal also contains a connection to the New York City Subway at Grand Central–42nd Street.</string>
+    <string name="national_desc">The National September 11 Memorial and Museum (also known as the 9/11 Memorial and Museum) is a memorial and museum in New York City commemorating the September 11, 2001 attacks, which killed 2,977 people, and the 1993 World Trade Center bombing, which killed six. The memorial is located at the World Trade Center site, the former location of the Twin Towers that were destroyed during the September 11 attacks. It is operated by a non-profit institution whose mission is to raise funds for, program, and operate the memorial and museum at the World Trade Center site.</string>
+    <!--Attraction address-->
+    <string name="statue_addr">Liberty Island, New York, NY 10004</string>
+    <string name="central_addr">Manhattan, New York City</string>
+    <string name="empire_addr">350 5th Ave, New York, NY 10118, USA</string>
+    <string name="high_addr">New York, NY 10011, USA</string>
+    <string name="metro_addr">1000 Fifth Avenue, New York, NY 10028</string>
+    <string name="grand_addr">89 E 42nd St, New York, NY 10017, USA</string>
+    <string name="national_addr">180 Greenwich St, New York, NY 10007, USA</string>
+
+    <!--Attraction name-->
+    <string name="statue_name">Statue of Liberty</string>
+    <string name="central_name">Central Park</string>
+    <string name="empire_name">Empire State Building</string>
+    <string name="high_name">High Line</string>
+    <string name="metro_name">Metropolitan Museum of Art</string>
+    <string name="grand_name">Grand Central Terminal</string>
+    <string name="national_name">National September 11 Memorial</string>
+
+    <!--Attraction contact-->
+    <string name="statue_phone">+1 212-363-3200</string>
+    <string name="central_phone">+1 212-310-6600</string>
+    <string name="empire_phone">+1 212-736-3100</string>
+    <string name="high_phone">+1 212-500-6035</string>
+    <string name="metro_phone">+1 (800) 662-3397</string>
+    <string name="grand_phone">+1 212-340-2583</string>
+    <string name="national_phone">+1 212-312-8800</string>
+
+    <!--NY Restaurant description-->
+    <string name="bernadin_desc">Born in Paris in 1972 by sibling duo Maguy and Gilbert Le Coze, Le Bernardin only served fish: Fresh, simple and prepared with respect. After receiving its first Michelin star in 1976, and two more in 1980, the Le Coze’s set to open Le Bernardin in New York in 1986. After the unexpected passing of Gilbert in 1994, Maguy Le Coze began working closely with Chef Eric Ripert, a disciple and close friend of Gilbert, who took over the kitchen to continue preparing the freshest seafood with the simple philosophy that the fish is the star of the plate. Le Bernardin earned four stars from The New York Times three months after its opening, never having dropped a star throughout five reviews, and is the only restaurant to maintain this rating for that length of time. </string>
+    <string name="gramercy_desc">One of Americas most beloved restaurants, Gramercy Tavern has welcomed guests to enjoy its contemporary American cuisine, warm hospitality, and unparalleled service for over two decades. Chef Michael Anthonys ever-evolving seasonal menu showcases the restaurants relationships with local farms and purveyors. Opened in 1994 by restaurateur Danny Meyer in a historic landmark building, the restaurant has earned nine James Beard Awards, including "Outstanding Restaurant" and "Outstanding Chef in America".</string>
+    <string name="sodi_desc">I grew up on a little farm north of Florence, Italy. Almost everything my family ate came from the farm – prosciutto, salami, wine, and vegetables. Eating together was a very sacred ritual within my family. Missing a meal was not an option. As the years passed, and my travels continued, I would find a kitchen wherever I was and presented my mother’s cooking to friends and colleagues, who filled my kitchen, sat at my table, and fueled my passion.</string>
+    <string name="perse_desc">Opened in 2004, Per Se is Thomas Keller’s acclaimed New York interpretation of The French Laundry in the Time Warner Center at Columbus Circle. Designed by Adam D. Tihany, Per Se features a serene and intimate environment with spectacular views of Central Park and Columbus Circle. The restaurant is Chef Keller’s second three-Michelin-starred property featuring his daily nine-course tasting menu and a nine-course vegetable tasting menu using classic French technique and the finest quality ingredients available. An award-winning wine list, boasting more than 2,000 bottles, complements the menu. The list highlights a collection of older wines as well as wines from small producers that are released in limited quantities.</string>
+    <string name="daniel_desc">Since opening in 1993, DANIEL has earned its place among the pillars of New York City’s bustling dining scene, receiving numerous accolades for its refined European cuisine, world-class cellar and gracious hospitality. Located in the former Mayfair Hotel on Park Avenue – the original site of Le Cirque -DANIEL is steeped in French culinary history. Building on time-honored techniques, Executive Chef Jean-François Bruel, Chef de Cuisine Eddy LeRoux and Executive Pastry Chef Ghaya Oliveira present a modern, seasonal menu inspired by the finest meats, wild game, seafood, fruits, vegetables and foraged flavors from around the world.</string>
+    <string name="modern_desc">Founded by Danny Meyers Union Square Hospitality Group, The Modern is a two Michelin-starred, contemporary American restaurant at the Museum of Modern Art. Executive Chef Abram Bissell’s refined, unexpectedly playful dishes highlight exceptional ingredients and seasonality in three distinct culinary experiences: a bold prix fixe menu in the dining room overlooking MoMAs Abby Aldrich Rockefeller Sculpture Garden, an à la carte menu in the lively Bar Room, and a bespoke tasting menu in the heart of the kitchen at the Kitchen Table. Master Sommelier Michaël Engelmanns extensive selection of wines showcases exceptional diversity and value from classic and emerging regions. The restaurants design by the New York-based architecture firm Bentel and Bentel offers a welcome escape from the bustling Midtown neighborhood it calls home.</string>
+    <string name="eleven_desc">Eleven Madison Park is a fine dining restaurant located in the heart of New York City. The restaurant overlooks one of the most beautiful parks in Manhattan, Madison Square Park, and sits at the base of a historic Art Deco building on the corner of 24th Street and Madison Avenue. Located here since 1998, it just underwent a full-scale renovation and redesign - during which the entire restaurant was moved to East Hampton for a summer-long pop-up, EMP Summer House. The restaurant has been owned by Chef Daniel Humm and Restaurateur Will Guidara since 2011 and during that time it has evolved considerably, both in food and in experience.</string>
+
+    <!--Restaurant address-->
+    <string name="bernadin_addr">155 W 51ST ST, NEW YORK, NY 10019</string>
+    <string name="gramercy_addr">42 E 20th St, New York, NY 10003, USA</string>
+    <string name="sodi_addr">105 Christopher St, New York, NY 10014, USA</string>
+    <string name="perse_addr">10 Columbus Cir, New York, NY 10019, USA</string>
+    <string name="daniel_addr">60 E 65th St, New York, NY 10065, USA</string>
+    <string name="modern_addr">9 W 53rd St, New York, NY 10019, USA</string>
+    <string name="eleven_addr">11 Madison Ave, New York, NY 10010, USA</string>
+
+    <!--Restaurant name-->
+    <string name="bernadin_name">Le Bernardin</string>
+    <string name="gramercy_name">Gramercy Tavern</string>
+    <string name="sodi_name">I Sodi</string>
+    <string name="perse_name">Per Se</string>
+    <string name="daniel_name">Daniel</string>
+    <string name="modern_name">The Modern</string>
+    <string name="eleven_name">Eleven Madison Park</string>
+
+    <!--Restaurant contact-->
+    <string name="bernadin_phone">+1 212 554-1515</string>
+    <string name="gramercy_phone">+1 212-477-0777</string>
+    <string name="sodi_phone">+1 212-414-5774</string>
+    <string name="perse_phone">+1 212-823-9335</string>
+    <string name="daniel_phone">+1 212-288-0033</string>
+    <string name="modern_phone">+1 212-333-1220</string>
+    <string name="eleven_phone">+1 212-889-0905</string>
+
+    <!--NY Adventures Description-->
+    <string name="adirondack_desc">Our Aerial Tree Top Adventure course is an elevated obstacle course set in the beautiful Adirondack Mountains and securely suspended between the trees at 10 to 60 feet off the ground. Some of the features of course include giant Tyrolean Zip lines, suspended bridges, swinging surprises, Tarzan swings, nets and much, much more. Come on your own or bring your group, party or an event. Take a journey and explore the outdoors like you never have before. Our beautiful Adirondack style log welcome center offers much more than just our ticketing counter! Guests can purchase Adirondack Extreme merchandise as well as snacks and beverages.</string>
+    <string name="river_desc">In Clayton we have a great love for the River! The Thousand Islands also provides for a scenic landscape from it’s natural beauty – so that’s why we combined the two!  Our water themed 18 Hole Mini Golf Course is the MOST challenging you’ll find. Great for ALL AGES. We are a Family Entertainment Center. It’s a place where anyone can have fun and learn about the cool things on the St. Lawrence River. You’ll see artifacts from the River including actual granite rocks that were blasted from the bottom of the St Lawrence. One of the biggest rocks you’ll see is like a small island!</string>
+    <string name="rafting_desc">rom Lake Tear of the Clouds high in the Adirondack Mountains, to the busy harbors of New York City, the Hudson River courses through New York State, defining the landscape and attracting whitewater rafters from around the world. The Hudson River Gorge, located in upstate New Yorks Adirondacks region, is where the power of the river flowing off the mountains has carved out 500-foot granite cliffs. Adding to its natural power, periodic dam releases from Lake Abanakee make conditionals idea for 16+ miles of whitewater rafting. Discover the awesome and varied landscape of the Adirondacks as you paddle along canyon walls and past waterfalls offering views of distant Adirondack High Peaks. Glimpse blue heron and bald eagles, and enjoy a truly unforgettable New York whitewater rafting trip down the mighty – and majestic – Hudson River. </string>
+    <string name="adv_center_desc">Our Outdoor Adventure Center activities are where the challenge is with four Dual Zip Lines, a High Peaks Challenge Course, Twin Creeks Team Challenge Course, a Eurobungy Zone (half trampoline/half Bungee jumping), and a 9-lane winter Tubing Center. Perfect for individuals, families, friends or groups, the Outdoor Adventure Center at Greek Peak Mountain Resort provides fun and excitement whether you’re here for a day or a week! Try our Laser Tag outdoor course, perfect for your next birthday party or outing.</string>
+    <string name="airborne_desc">Little compares to the thrill of a balloon flight! Its everything you might have dreamed of as a child, floating effortlessly over the tree tops, skimming just above the corn tassles, or rising up to catch a glimpse of far away horizons! Whether you are 8 or 80, even 97 as one of our passengers was, you are almost never too young or too old to enjoy a balloon flight! Call us or email us! Schedule your adventure of a lifetime!</string>
+
+    <!--Adventures address-->
+    <string name="adirondack_addr">35 Westwood Forest Lane, Bolton Landing, NY 12814, USA</string>
+    <string name="river_addr">40168 NY-12, Clayton, NY 13624, USA</string>
+    <string name="rafting_addr">6127 NY-28, Indian Lake, NY 12842, USA</string>
+    <string name="adv_center_addr">1856 NY-392, Cortland, NY 13045, USA</string>
+    <string name="airborne_addr">6287 Haslauer Rd, Munnsville, NY 13409, USA</string>
+
+    <!--Adventures name-->
+    <string name="adirondack_name">Adirondack Extreme Adventure Course</string>
+    <string name="river_name">River Golf Adventures</string>
+    <string name="rafting_name">Adventure Sports Rafting Company</string>
+    <string name="adv_center_name">The Adventure Center</string>
+    <string name="airborne_name">Airborne Adventures Ballooning</string>
+
+    <!--Adventures contact-->
+    <string name="adirondack_phone">+1 518-494-7200</string>
+    <string name="river_phone">+1 315-777-0225</string>
+    <string name="rafting_phone">+1 518-648-5812</string>
+    <string name="adv_center_phone">+1 866-376-3907</string>
+    <string name="airborne_phone">+1 315-761-8201</string>
+
+    <!--NY Shopping Mall Description-->
+    <string name="columbus_desc">The Shops at Columbus Circle is an urban shopping mall in the Time Warner Center in Manhattan, New York City — a complex of skyscrapers that was completed in 2003. It is located at Columbus Circle, next to the southwestern corner of Central Park. The shopping mall includes Amazon Books, H and M, LOccitane, Michael Kors, Hugo Boss, Tumi, Coach, Cole Haan, Thomas Pink, J.Crew and Stuart Weitzman. The mall also has several restaurants such as the Michelin 3-star Per Se, Masa (allegedly the most expensive restaurant in New York), the East Coast flagship of Williams-Sonoma, and a Whole Foods Market. It is owned by The Related Companies.</string>
+    <string name="westfield_desc">The Mall at the World Trade Center was an indoor underground shopping mall that was located in the concourse area of the original World Trade Center complex. Most of the mall was located underneath 4 and 5 World Trade Center, as well as under the Austin J. Tobin Plaza. Completed in 1975, it was the largest shopping mall in New York City, and was managed by the Westfield Group. The main entrance was located on the south side of 4 World Trade Center facing Liberty Street with escalators going down into the concourse. The other entrance was located on the east side of 5 World Trade Center facing Church Street. </string>
+    <string name="staten_desc">Staten Island Mall is a shopping mall in the New Springville neighborhood of the Staten Island borough of New York City, United States. It is the only indoor shopping mall in the borough. It is the largest retail center on the island and is the site of the islands third largest public transit hub after the St. George ferry terminal and Eltingville Transit Center, respectively, with numerous bus routes that connect to the periphery of the mall area. Anchor stores include JCPenney, Macys, Sears, and Primark. The mall is owned by GGP Inc. of Chicago, Illinois. It has 200 stores employing approximately 3,000 people. Anchor tenants include JCPenney, Macys, Primark, and Sears.</string>
+    <string name="brookfield_desc">Brookfield Place, built as and still commonly referred to as the World Financial Center, is a shopping center and office-building complex located across West Street from the World Trade Center site in the Battery Park City neighborhood of Manhattan, New York City. Overlooking the Hudson River, Brookfield Place has been home to offices of various companies including Merrill Lynch, RBC Capital Markets, Nomura Group, American Express, Bank of New York Mellon, Time Inc. and Brookfield Asset Management, among others. In 2014, the complex was given its current name following the completion of extensive renovations.</string>
+    <string name="bay_desc">Bay Plaza Shopping Center is a shopping center on the south side of Co-op City, in the Bronx, New York. In addition to various department stores and shops, such as Macys, JCPenney, Staples, Kmart, Saks Off 5th (formerly Barnes and Noble), and Old Navy, it has a multiplex movie theater, several restaurants, a fitness club, and some office space. Constructed from 1987 to 1988 by Prestige Properties, the shopping center is located between Bartow and Baychester Avenues, just outside Sections 4 and 5 of Co-op City, on an open lot that from 1960 to 1964, was the site of Freedomland USA. The Bay Plaza Shopping Center is the largest shopping center in New York City.</string>
+    <string name="atlantic_desc">Atlantic Terminal and Atlantic Center are shopping malls located on Atlantic Avenue surrounded by Hanson Place, Fort Greene Place and Flatbush Avenue in the Fort Greene section of Brooklyn, New York City, near Downtown Brooklyn. Atlantic Terminal is located across the street from the Atlantic Center Mall (via a small enclosed bridge from Target), and both are under the same management of Forest City Ratner Companies, the New York subsidiary of Forest City Enterprises. Atlantic Terminal is also an office building and part of the ticket office of the Long Island Rail Roads Atlantic Terminal. Parts of Atlantic Center Mall were also renovated to complement the new mall. </string>
+
+    <!--Shopping Mall address-->
+    <string name="columbus_addr">10 Columbus Cir, New York, NY 10019, USA</string>
+    <string name="westfield_addr">185 Greenwich St, New York, NY 10007, USA</string>
+    <string name="staten_addr">2655 Richmond Ave, Staten Island, NY 10314, USA</string>
+    <string name="brookfield_addr">230 Vesey St, New York, NY 10281, USA</string>
+    <string name="bay_addr">2100 Bartow Ave, Bronx, NY 10475, USA</string>
+    <string name="atlantic_addr">139 Flatbush Ave, Brooklyn, NY 11217, USA</string>
+
+    <!--Shopping Mall name-->
+    <string name="columbus_name">The Shops at Columbus Circle</string>
+    <string name="westfield_name">Westfield World Trade Center</string>
+    <string name="staten_name">Staten Island Mall</string>
+    <string name="brookfield_name">Brookfield Place</string>
+    <string name="bay_name">Bay Plaza Shopping Center</string>
+    <string name="atlantic_name">Atlantic Terminal</string>
+
+    <!--Shopping Mall contact-->
+    <string name="columbus_phone">+1 212-823-6300</string>
+    <string name="westfield_phone">+1 212-284-9982</string>
+    <string name="staten_phone">+1 718-761-6800</string>
+    <string name="brookfield_phone">+1 212-978-1698</string>
+    <string name="bay_phone">+1 718-320-8955</string>
+    <string name="atlantic_phone">+1 718-834-3407</string>
+
+
+</resources>
