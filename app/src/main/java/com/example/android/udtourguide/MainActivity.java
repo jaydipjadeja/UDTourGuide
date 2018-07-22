@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
 
         Button more = findViewById(R.id.more_view);
 
-        more.setOnClickListener(new Button.OnClickListener(){
+        more.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View view) {
                 Intent intent = new Intent(MainActivity.this, NewYorkActivity.class);

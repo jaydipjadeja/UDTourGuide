@@ -53,8 +53,9 @@ public class CategoryAdapter extends ArrayAdapter<Category> {
         ImageView imageView = (ImageView) listItemView.findViewById(R.id.image);
         // Get the image resource ID from the current AndroidFlavor object and
         // set the image to imageView
-        imageView.setImageResource(currentCategory.getmImageResourceId());
-
+//        if (currentCategory.getmImageResourceId() != 0) {
+            imageView.setImageResource(currentCategory.getmImageResourceId());
+//        }
         // Find the TextView in the list_item.xml layout with the ID version_name
         TextView nameTextView = (TextView) listItemView.findViewById(R.id.title_text_view);
         // Get the version name from the current AndroidFlavor object and

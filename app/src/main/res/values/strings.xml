@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">UDTourGuide</string>
+    <string name="app_name">NYTourGuide</string>
 
     <!--Home Page-->
     <string name="title_main">New York</string>
@@ -22,11 +22,11 @@
     <!--Attraction address-->
     <string name="statue_addr">Liberty Island, New York, NY 10004</string>
     <string name="central_addr">Manhattan, New York City</string>
-    <string name="empire_addr">350 5th Ave, New York, NY 10118, USA</string>
-    <string name="high_addr">New York, NY 10011, USA</string>
+    <string name="empire_addr">350 5th Ave, New York, NY 10118</string>
+    <string name="high_addr">New York, NY 10011</string>
     <string name="metro_addr">1000 Fifth Avenue, New York, NY 10028</string>
-    <string name="grand_addr">89 E 42nd St, New York, NY 10017, USA</string>
-    <string name="national_addr">180 Greenwich St, New York, NY 10007, USA</string>
+    <string name="grand_addr">89 E 42nd St, New York, NY 10017</string>
+    <string name="national_addr">180 Greenwich St, New York, NY 10007</string>
 
     <!--Attraction name-->
     <string name="statue_name">Statue of Liberty</string>
@@ -57,12 +57,12 @@
 
     <!--Restaurant address-->
     <string name="bernadin_addr">155 W 51ST ST, NEW YORK, NY 10019</string>
-    <string name="gramercy_addr">42 E 20th St, New York, NY 10003, USA</string>
-    <string name="sodi_addr">105 Christopher St, New York, NY 10014, USA</string>
-    <string name="perse_addr">10 Columbus Cir, New York, NY 10019, USA</string>
-    <string name="daniel_addr">60 E 65th St, New York, NY 10065, USA</string>
-    <string name="modern_addr">9 W 53rd St, New York, NY 10019, USA</string>
-    <string name="eleven_addr">11 Madison Ave, New York, NY 10010, USA</string>
+    <string name="gramercy_addr">42 E 20th St, New York, NY 10003</string>
+    <string name="sodi_addr">105 Christopher St, New York, NY 10014</string>
+    <string name="perse_addr">10 Columbus Cir, New York, NY 10019</string>
+    <string name="daniel_addr">60 E 65th St, New York, NY 10065</string>
+    <string name="modern_addr">9 W 53rd St, New York, NY 10019</string>
+    <string name="eleven_addr">11 Madison Ave, New York, NY 10010</string>
 
     <!--Restaurant name-->
     <string name="bernadin_name">Le Bernardin</string>
@@ -90,11 +90,11 @@
     <string name="airborne_desc">Little compares to the thrill of a balloon flight! Its everything you might have dreamed of as a child, floating effortlessly over the tree tops, skimming just above the corn tassles, or rising up to catch a glimpse of far away horizons! Whether you are 8 or 80, even 97 as one of our passengers was, you are almost never too young or too old to enjoy a balloon flight! Call us or email us! Schedule your adventure of a lifetime!</string>
 
     <!--Adventures address-->
-    <string name="adirondack_addr">35 Westwood Forest Lane, Bolton Landing, NY 12814, USA</string>
-    <string name="river_addr">40168 NY-12, Clayton, NY 13624, USA</string>
-    <string name="rafting_addr">6127 NY-28, Indian Lake, NY 12842, USA</string>
-    <string name="adv_center_addr">1856 NY-392, Cortland, NY 13045, USA</string>
-    <string name="airborne_addr">6287 Haslauer Rd, Munnsville, NY 13409, USA</string>
+    <string name="adirondack_addr">35 Westwood Forest Lane, Bolton Landing, NY 12814</string>
+    <string name="river_addr">40168 NY-12, Clayton, NY 13624</string>
+    <string name="rafting_addr">6127 NY-28, Indian Lake, NY 12842</string>
+    <string name="adv_center_addr">1856 NY-392, Cortland, NY 13045</string>
+    <string name="airborne_addr">6287 Haslauer Rd, Munnsville, NY 13409</string>
 
     <!--Adventures name-->
     <string name="adirondack_name">Adirondack Extreme Adventure Course</string>
@@ -119,12 +119,12 @@
     <string name="atlantic_desc">Atlantic Terminal and Atlantic Center are shopping malls located on Atlantic Avenue surrounded by Hanson Place, Fort Greene Place and Flatbush Avenue in the Fort Greene section of Brooklyn, New York City, near Downtown Brooklyn. Atlantic Terminal is located across the street from the Atlantic Center Mall (via a small enclosed bridge from Target), and both are under the same management of Forest City Ratner Companies, the New York subsidiary of Forest City Enterprises. Atlantic Terminal is also an office building and part of the ticket office of the Long Island Rail Roads Atlantic Terminal. Parts of Atlantic Center Mall were also renovated to complement the new mall. </string>
 
     <!--Shopping Mall address-->
-    <string name="columbus_addr">10 Columbus Cir, New York, NY 10019, USA</string>
-    <string name="westfield_addr">185 Greenwich St, New York, NY 10007, USA</string>
-    <string name="staten_addr">2655 Richmond Ave, Staten Island, NY 10314, USA</string>
-    <string name="brookfield_addr">230 Vesey St, New York, NY 10281, USA</string>
-    <string name="bay_addr">2100 Bartow Ave, Bronx, NY 10475, USA</string>
-    <string name="atlantic_addr">139 Flatbush Ave, Brooklyn, NY 11217, USA</string>
+    <string name="columbus_addr">10 Columbus Cir, New York, NY 10019</string>
+    <string name="westfield_addr">185 Greenwich St, New York, NY 10007</string>
+    <string name="staten_addr">2655 Richmond Ave, Staten Island, NY 10314</string>
+    <string name="brookfield_addr">230 Vesey St, New York, NY 10281</string>
+    <string name="bay_addr">2100 Bartow Ave, Bronx, NY 10475</string>
+    <string name="atlantic_addr">139 Flatbush Ave, Brooklyn, NY 11217</string>
 
     <!--Shopping Mall name-->
     <string name="columbus_name">The Shops at Columbus Circle</string>
